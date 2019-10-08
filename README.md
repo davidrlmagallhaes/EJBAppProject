@@ -1,0 +1,5 @@
+<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<p style="text-align: center;"><strong>EJB</strong></p>
+<p style="text-align: justify;">Este projeto apresenta uma introdu&ccedil;&atilde;o ao EJB, uma das mais importantes tecnologias de desenvolvimento da plataforma Java EE, que permite desenvolver aplica&ccedil;&otilde;es corporativas de alta complexidade, oferecendo valiosos recursos ao desenvolvedor.</p>
+<p style="text-align: justify;">A Vers&atilde;o 3.1 foi utilizada nos exemplos apresentados deste projeto. Os beans de sess&atilde;o, com exemplos de seus tr&ecirc;s subtipos (stateless, stateful e singleton).&nbsp;</p>
+<p style="text-align: justify;">O conhecimento adquirido neste projeto &eacute; um ponto de partida para estudos avan&ccedil;ados sobre EJBs e o universo que h&aacute; por tr&aacute;s deles. No mercado de trabalho, a tecnologia EJB &eacute; bastante utilizada pelas empresas de desenvolvimento de softwares, e isso faz com que o EJB seja praticamente um item obrigat&oacute;rio no curr&iacute;culo de um bom desenvolvedor Java</p>
